@@ -1,4 +1,3 @@
-import "./App.css";
 import LogoList from "./Components/LogoList";
 
 function App() {
