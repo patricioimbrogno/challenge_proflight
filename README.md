@@ -8,3 +8,6 @@ Criterios de aceptación:
 4. Cuando se seleccione el botón “Anterior” se debe resaltar el logo anterior.
 5. Cuando el primer logo esté seleccionado y se presione el botón “Anterior” se debe resaltar el último logo.
 
+![imagen](https://user-images.githubusercontent.com/110631813/214398181-4f1bc4fd-4a37-48ff-be6e-0a92b4e10c68.png)
+
+
